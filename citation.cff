@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or the FFM theory, please cite it as below."
+authors:
+- family-names:"hosein nori
+  given-names: mohammad
+title: "The Frame Field Model (FFM): A Complete Theory of Discrete Spacetime"
+version: 1.0.0
+doi: 10.5281/zenodo.18497675
+date-released: 2026-02-05
+url: "https://github.com/username/repository_name"
