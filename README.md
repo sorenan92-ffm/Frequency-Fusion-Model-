@@ -39,3 +39,43 @@ Status: Hard Physics (T2) Finalized. Open-source for independent verification.
 > **Official Publication:** This repository is the official implementation of the FFM theory. 
 > Cite as: *Your Name, (2026). Frame Field Model (FFM). Zenodo. https://doi.org/10.5281/zenodo.18497675*
 > 
+# 🎨 3D Quark Structure Visualization
+
+![Quark Visualization](https://img.shields.io/badge/Visualization-3D-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-green)
+![Physics](https://img.shields.io/badge/Physics-QCD-red)
+
+**Interactive 3D visualization of quark structure based on Quantum Chromodynamics (QCD)**
+
+## 🌟 Features
+
+- **Full 3D Interactive Visualization**
+  - Real-time rotation and zoom
+  - 6 quark flavors with accurate properties
+  - Gluon field lines and color charges
+  - Quantum fluctuations visualization
+
+- **Scientific Accuracy**
+  - Correct quark masses and charges
+  - QCD color charge representation
+  - Strong force field lines
+  - SU(3) symmetry visualization
+
+- **Interactive Controls**
+  - Start/Pause/Reset animation
+  - Adjustable rotation speed
+  - Quark size control
+  - Multiple viewing angles
+
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/quark-visualization.git
+cd quark-visualization
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run visualization
+python quark_visualization.py
