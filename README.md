@@ -32,3 +32,10 @@ The model is ready for immediate empirical testing. The physics community can ve
 If you use FFM in your research, please refer to the February 5, 2026, calibration report.
 Status: Hard Physics (T2) Finalized. Open-source for independent verification.
 
+# 🌀 Frame Field Model (FFM) - Core Engine
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18497675.svg)](https://doi.org/10.5281/zenodo.18497675)
+
+> **Official Publication:** This repository is the official implementation of the FFM theory. 
+> Cite as: *Your Name, (2026). Frame Field Model (FFM). Zenodo. https://doi.org/10.5281/zenodo.18497675*
+> 
